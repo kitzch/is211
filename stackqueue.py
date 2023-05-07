@@ -31,5 +31,10 @@ numbers = Numbers()
 for i in range(20):
     numbers.add_number(i+1)
 
+numbers.printContent()
+
+numbers.remove_first()
+numbers.remove_first()
+numbers.remove_last()
 
 numbers.printContent()

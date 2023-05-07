@@ -34,7 +34,5 @@ numbers.print_content()
 
 numbers.remove_first()
 numbers.remove_last()
-numbers.remove_last()
-numbers.remove_first()
 
 numbers.print_content()
